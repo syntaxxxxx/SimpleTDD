@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#9B9B9B</color>
+    <color name="colorAccent">#696969</color>
+    <color name="shimmerBg">#E8E8E8</color>
+    <color name="green">#31B057</color>
+    <color name="titleColor">#25282B</color>
+    <color name="titleColor2">#4A4A4A</color>
+    <color name="textColor">#929292</color>
+    <color name="textColor2">#52575C</color>
+
+</resources>

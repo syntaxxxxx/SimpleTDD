@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.learn.tdd.MainActivity">
+
+    <item
+        android:id="@+id/sort_by_stars_action"
+        android:orderInCategory="1"
+        android:title="@string/sort_by_stars"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/sort_by_name_action"
+        android:orderInCategory="2"
+        android:title="@string/sort_by_name"
+        app:showAsAction="never" />
+</menu>

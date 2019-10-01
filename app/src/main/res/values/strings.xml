@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Learn</string>
+    <string name="github_avatar">github avatar</string>
+    <string name="language_color">Language Color</string>
+    <string name="star_icon">star icon</string>
+    <string name="fork_icon">fork icon</string>
+    <string name="retry">RETRY</string>
+    <string name="something_went_wrong">Something went wrong..</string>
+    <string name="an_alien_probably_blocking_your_signal">An Alien probably blocking your signal.</string>
+    <string name="trending">Trending</string>
+    <string name="sort_by_stars">Sort by stars</string>
+    <string name="sort_by_name">Sort by name</string>
+</resources>
